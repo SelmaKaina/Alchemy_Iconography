@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 24,
+    "height" : 31
+  }, {
+    "width" : 47,
+    "height" : 62
+  }, {
+    "width" : 94,
+    "height" : 124
+  }, {
+    "width" : 188,
+    "height" : 248
+  }, {
+    "width" : 375,
+    "height" : 496
+  }, {
+    "width" : 750,
+    "height" : 991
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 750,
+  "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/7_Stradano_alchemist_iiif",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 991
+}
