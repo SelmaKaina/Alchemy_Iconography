@@ -1,0 +1,66 @@
+{
+  "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/manifest.json",
+  "label" : {
+    "en" : [ "All images loaded in SelmaKaina/Alchemy_Iconography project" ]
+  },
+  "type" : "Manifest",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "width" : 1207,
+    "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/1_Alchemical_vessel_iiif/canvas/",
+    "label" : {
+      "none" : [ "1_Alchemical_vessel_iiif" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/1_Alchemical_vessel_iiif/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/1_Alchemical_vessel_iiif/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 38,
+              "height" : 63
+            }, {
+              "width" : 76,
+              "height" : 125
+            }, {
+              "width" : 151,
+              "height" : 250
+            }, {
+              "width" : 302,
+              "height" : 499
+            }, {
+              "width" : 604,
+              "height" : 997
+            }, {
+              "width" : 1207,
+              "height" : 1994
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1207,
+            "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/1_Alchemical_vessel_iiif",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1994
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1207,
+          "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/1_Alchemical_vessel_iiif/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1994
+        },
+        "target" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/1_Alchemical_vessel_iiif/canvas/"
+      } ]
+    } ],
+    "height" : 1994
+  } ]
+}
