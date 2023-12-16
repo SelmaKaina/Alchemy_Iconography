@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 120,
+    "height" : 157
+  }, {
+    "width" : 240,
+    "height" : 313
+  }, {
+    "width" : 479,
+    "height" : 626
+  }, {
+    "width" : 958,
+    "height" : 1251
+  }, {
+    "width" : 1916,
+    "height" : 2501
+  }, {
+    "width" : 3832,
+    "height" : 5001
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3832,
+  "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/4_Muter_liber_1_iiif",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5001
+}
