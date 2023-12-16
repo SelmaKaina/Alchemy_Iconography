@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 1132,
+    "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/2_CLAVIS_2_iiif/canvas/",
+    "label" : {
+      "none" : [ "2_CLAVIS_2_iiif" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/2_CLAVIS_2_iiif/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/2_CLAVIS_2_iiif/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 36,
+              "height" : 44
+            }, {
+              "width" : 71,
+              "height" : 88
+            }, {
+              "width" : 142,
+              "height" : 175
+            }, {
+              "width" : 283,
+              "height" : 349
+            }, {
+              "width" : 566,
+              "height" : 697
+            }, {
+              "width" : 1132,
+              "height" : 1393
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 1132,
+            "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/2_CLAVIS_2_iiif",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 1393
+          } ],
+          "format" : "image/jpeg",
+          "width" : 1132,
+          "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/2_CLAVIS_2_iiif/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 1393
+        },
+        "target" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/2_CLAVIS_2_iiif/canvas/"
+      } ]
+    } ],
+    "height" : 1393
+  }, {
     "width" : 1207,
     "id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/1_Alchemical_vessel_iiif/canvas/",
     "label" : {
