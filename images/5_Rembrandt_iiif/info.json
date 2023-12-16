@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 124,
+    "height" : 163
+  }, {
+    "width" : 248,
+    "height" : 325
+  }, {
+    "width" : 496,
+    "height" : 649
+  }, {
+    "width" : 992,
+    "height" : 1298
+  }, {
+    "width" : 1984,
+    "height" : 2595
+  }, {
+    "width" : 3968,
+    "height" : 5189
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 3968,
+  "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/5_Rembrandt_iiif",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 5189
+}
