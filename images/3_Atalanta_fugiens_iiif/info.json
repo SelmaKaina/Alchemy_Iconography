@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 41,
+    "height" : 54
+  }, {
+    "width" : 82,
+    "height" : 107
+  }, {
+    "width" : 163,
+    "height" : 214
+  }, {
+    "width" : 325,
+    "height" : 427
+  }, {
+    "width" : 650,
+    "height" : 854
+  }, {
+    "width" : 1300,
+    "height" : 1708
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 1300,
+  "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/images/3_Atalanta_fugiens_iiif",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1708
+}
