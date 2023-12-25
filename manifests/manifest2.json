@@ -4,9 +4,9 @@
   "@type" : "sc:Manifest",
   "label" : "Alchemy Unveiled with IIIF",
   "metadata" : [ {
-    "label" : "Title",
-    "@alue" : "Alchemy Unveiled with IIIF",
-    "language" : "en"
+    "@label" : "Title",
+    "@value" : "Alchemy Unveiled with IIIF",
+    "@language" : "en"
   }, {
     "@label" : "Held by",
     "@value" : "The British Library, Bibliothèque nationale de France, Library of Congress, Rijksmuseum Amsterdam, National Gallery of Art, Washington, DC, Palazzo Vecchio, Florence",
