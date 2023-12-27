@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/Jan_Stradanus_annotations", "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/Rembrandt_alchimiste_annotations", "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/Mutus_Liber_annotations", "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/ouroboros_annotations" ],
+  "otherContent" : [ "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/Jan_Stradanus_annotations", "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/Rembrandt_alchimiste_annotations", "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/Mutus_Liber_annotations", "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/ouroboros_annotations", "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/Hermes_annotations" ],
   "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/collection.json",
   "label" : "All annotations loaded in SelmaKaina/Alchemy_Iconography project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
