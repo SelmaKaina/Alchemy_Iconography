@@ -1,0 +1,294 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "An untidy and smoky workspace. Some sort of catastrophe seems to have just happened or to be on the verge of happening.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>An untidy and smoky workspace. Some sort of catastrophe seems to have just happened or to be on the verge of happening.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-27T00:44:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703637868867",
+    "dcterms:modified" : "2023-12-27T00:44:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=54,563,632,769"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M53.58403,562.95411h315.97616v0h315.97616v384.5298v384.5298h-315.97616h-315.97616v-384.5298z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_53756dac-73d8-48db-a381-4e34918a8fb9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://455960bc-0d20-462f-a2cb-6fa0161b59a4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "jester",
+      "@type" : "oa:Tag",
+      "chars" : "jester"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "This worker is wearing a jester's cap, illustrating Bruegel's view ofalchemical work as lacking seriousness.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This worker is wearing a jester's cap, illustrating Bruegel's view of<br />alchemical work as lacking seriousness.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-12-27T00:48:24",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703638104516",
+    "dcterms:modified" : "2023-12-27T00:48:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1866,1145,280,273"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1865.62336,1144.73361h139.96007v0h139.96007v136.25447v136.25447h-139.96007h-139.96007v-136.25447z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_de3455c6-04d0-4234-a439-99cddf254c83\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://455960bc-0d20-462f-a2cb-6fa0161b59a4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Children playing. One of them is blinded by the pot on his head, similar to the worker with his cap. A parallel is drawn between the chaos of the workshop and that of children's games.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Children playing. One of them is blinded by the pot on his head, similar to the worker with his cap. A parallel is drawn between the chaos of the workshop and that of children's games.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "games",
+      "@type" : "oa:Tag",
+      "chars" : "games"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "children",
+      "@type" : "oa:Tag",
+      "chars" : "children"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-27T00:46:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703637972813",
+    "dcterms:modified" : "2023-12-27T00:47:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1327,117,580,850"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1906.38498,966.86472h-289.88975v0h-289.88975v-425.14422v-425.14422h289.88975h289.88975v425.14422z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_80f530d4-2f75-4346-81d6-0211497a1dfa\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"22.23361\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://455960bc-0d20-462f-a2cb-6fa0161b59a4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "An alchemist attempts, but fails, to organize the activities of the laboratory. Despite his instructions, the workshop is in a state of chaos.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>An alchemist attempts, but fails, to organize the activities of the laboratory. Despite his instructions, the workshop is in a state of chaos.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "alchemist",
+      "@type" : "oa:Tag",
+      "chars" : "alchemist"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-27T00:42:12",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703637732352",
+    "dcterms:modified" : "2023-12-27T00:47:52",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2588,767,406,973"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2588.21573,766.76222h202.9553v0h202.9553v486.43385v486.43385h-202.9553h-202.9553v-486.43385z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_d2478bdc-ae56-4efe-95df-a005bffffc0c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"22.23361\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://455960bc-0d20-462f-a2cb-6fa0161b59a4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The bag held by the woman is empty: there is no more food in the house. According to Bruegel, alchemy is not a profitable activity, the pursuit of which leads to anarchy and poverty.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The bag held by the woman is empty: there is no more food in the house. According to Bruegel, alchemy is not a profitable activity, the pursuit of which leads to anarchy and poverty.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-27T00:51:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703638301428",
+    "dcterms:modified" : "2023-12-27T00:51:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1265,1017,536,470"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1801.11245,1016.60567h-267.94921v0h-267.94921v235.10197v235.10197h267.94921h267.94921v-235.10197z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4d07ee2f-bcaa-4711-aa2b-94fd51a0a190\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://455960bc-0d20-462f-a2cb-6fa0161b59a4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "hospital",
+      "@type" : "oa:Tag",
+      "chars" : "hospital"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The consequences of the scholar&rsquo;s devotion to alchemy : the family joins the hospice for the poor.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The consequences of the scholar&rsquo;s devotion to alchemy : the family joins the hospice for the poor.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-12-27T00:52:41",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703638361744",
+    "dcterms:modified" : "2023-12-27T00:52:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2061,204,1025,506"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2060.66573,709.47557h512.37306v0h512.37306v-252.83373v-252.83373h-512.37306h-512.37306v252.83373z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_bd5eef2a-b6e0-4e2a-9b03-11e9c513ce82\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://455960bc-0d20-462f-a2cb-6fa0161b59a4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Folio volumes, symbols of the futility of bookish knowledge : despite the scholar's extended knowledge, the workshop's activities are disorderly and absurd.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Folio volumes, symbols of the futility of bookish knowledge : despite the scholar's extended knowledge, the workshop's activities are disorderly and absurd.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-27T00:40:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703637608983",
+    "dcterms:modified" : "2023-12-27T00:40:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2173,926,402,473"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2173.18832,926.1031h201.1025v0h201.1025v236.30572v236.30572h-201.1025h-201.1025v-236.30572z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f7127c98-f4c7-4939-8755-23f7373c7014\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://455960bc-0d20-462f-a2cb-6fa0161b59a4"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "This worker seems to be blinded by his cap.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This worker seems to be blinded by his cap.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "blind",
+      "@type" : "oa:Tag",
+      "chars" : "blind"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-27T00:44:52",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703637892912",
+    "dcterms:modified" : "2023-12-27T01:06:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=721,737,491,647"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M720.59237,737.1174h245.56973v0h245.56973v323.38737v323.38737h-245.56973h-245.56973v-323.38737z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_43774949-6984-4abe-889e-910befdbc36c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"22.23361\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://455960bc-0d20-462f-a2cb-6fa0161b59a4"
+    } ]
+  } ],
+  "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/Bruegel_annotations",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
