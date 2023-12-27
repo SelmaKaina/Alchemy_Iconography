@@ -3,29 +3,30 @@
   "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json",
   "@type" : "sc:Manifest",
   "label" : "Alchemy Unveiled with IIIF",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/127856555/f9be54fb18ff28ec96e107f6fd852ecc/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ {
-    "@label" : "Title",
-    "@value" : "Alchemy Unveiled with IIIF",
-    "@language" : "en"
+    "label" : "Title",
+    "value" : "Alchemy Unveiled with IIIF",
+    "language" : "en"
   }, {
-    "@label" : "Held by",
-    "@value" : "The British Library, Bibliothèque nationale de France, Library of Congress, Rijksmuseum Amsterdam, National Gallery of Art, Washington, DC, Palazzo Vecchio, Florence",
-    "@language" : "en"
+    "label" : "Format",
+    "value" : "JPEG",
+    "language" : "en"
   }, {
-    "@label" : "Format",
-    "@value" : "JPEG",
-    "@language" : "en"
-  }, {
-    "@label" : "Period",
-    "@value" : "15th to 17th century",
-    "@language" : "en"
+    "label" : "Period",
+    "value" : "15th to 17th century",
+    "language" : "en"
   } ],
   "description" : [ {
     "@value" : "This project aims to use the IIIF functionalities to present the iconography of alchemy in an interactive and immersive manner. The first set of images will showcase some common symbols used by alchemists to depict their cosmogony and work. The second set will offer three representations of alchemists by external observers: a symbolic and idealized representation, a caricature seeking to criticize the futility of alchemical research, and a representation striving to be realistic yet stylized. I will use the annotation system to emphasize various motifs and explain their meaning. This feature is particularly useful for presenting alchemical motifs, visually intriguing yet often enigmatic, fueling numerous debates about their meaning.",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by-nc-sa/4.0/ ",
-  "attribution" : "The British Library (Sloane Ms.2560), \n Bibliothèque nationale de France - Réserve des livres rares (RES-R-1438, R-8080), \n Library of Congress (QD25 .A4 1702), \nRijksmuseum Amsterdam (Rembrandt, The Alchimist at home in his study, 1652), \nNational Gallery of Art, Washington, DC, (Pieter Brueghel the Elder, The Alchemist, 1558), \nPalazzo Vecchio, Florence (Jan Stradanus, The Alchemist’s Laboratory, 1570)",
+  "attribution" : "The British Library, Bibliothèque nationale de France, Library of Congress, Rijksmuseum Amsterdam, National Gallery of Art (Washington, DC), Palazzo Vecchio (Florence)",
   "viewingHint" : "individuals",
   "sequences" : [ {
     "@id" : "http://e96c70ed-d291-4070-be26-0cde1529816d",
@@ -40,6 +41,22 @@
       "label" : "The meeting of opposites, Donum Dei, 15th c., fol.7",
       "height" : 1994,
       "width" : 1207,
+      "metadata" : [ {
+        "label" : "Shelfmark",
+        "value" : "Sloane 2560"
+      }, {
+        "label" : "Creator",
+        "value" : "Villanova, Arnold of, and others"
+      }, {
+        "label" : "Title",
+        "value" : "Opusculum Alchemicum"
+      }, {
+        "label" : "Date",
+        "value" : "second half 15th century"
+      }, {
+        "label" : "Credit",
+        "value" : "British Library"
+      } ],
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://0d9177e9-826d-4f17-b0ce-8bc7a230a04c",
@@ -59,6 +76,11 @@
         },
         "on" : "http://c4b95b48-310e-47d7-ad10-c65678789528"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://selmakaina.github.io/Alchemy_Iconography/annotations/Opposites_annotations",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations for the meeting of opposites"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://cf996f16-354b-4018-8606-fbe330482232",
@@ -66,6 +88,22 @@
       "label" : "Clavus II  \"Hermes\", Musaeum Hermeticum, 1678",
       "height" : 1393,
       "width" : 1132,
+      "metadata" : [ {
+        "label" : "Shelfmark",
+        "value" : "R-8080"
+      }, {
+        "label" : "Creator",
+        "value" : "Sendivogius, Michael, and others"
+      }, {
+        "label" : "Title",
+        "value" : "Musaeum hermeticum reformatum et amplificatum omnes Sopho-spagyricae artis discipulos fidelissime erudiens"
+      }, {
+        "label" : "Date",
+        "value" : "1678"
+      }, {
+        "label" : "Credit",
+        "value" : "Bibliothèque nationale de France, Réserve des livres rares"
+      } ],
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://20223974-101d-46b9-a30e-a4cfe67ea5ef",
@@ -85,6 +123,11 @@
         },
         "on" : "http://cf996f16-354b-4018-8606-fbe330482232"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://selmakaina.github.io/Alchemy_Iconography/annotations/Hermes_annotations",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations for Hermes"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://aba2f013-1faf-43d1-990e-900536c63ef3",
@@ -92,6 +135,22 @@
       "label" : "Ouroboros, Atalanta fugiens, 1618",
       "height" : 1708,
       "width" : 1300,
+      "metadata" : [ {
+        "label" : "Shelfmark",
+        "value" : "RES-R-1438"
+      }, {
+        "label" : "Creator",
+        "value" : "Maier, Michel"
+      }, {
+        "label" : "Title",
+        "value" : "Atalanta fugiens, hoc est Emblemata nova de secretis naturae chymica "
+      }, {
+        "label" : "Date",
+        "value" : "1618"
+      }, {
+        "label" : "Credit",
+        "value" : "Bibliothèque nationale de France, Réserve des livres rares"
+      } ],
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://aefd788d-93d7-47d9-a448-f54b22d25fa0",
@@ -111,6 +170,11 @@
         },
         "on" : "http://aba2f013-1faf-43d1-990e-900536c63ef3"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://selmakaina.github.io/Alchemy_Iconography/annotations/ouroboros_annotations",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations for Ouroboros"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://1dacb807-b14b-4b93-b55c-c1178a30ded3",
@@ -118,6 +182,22 @@
       "label" : "Mutus liber, 1677, pl.5",
       "height" : 5001,
       "width" : 3832,
+      "metadata" : [ {
+        "label" : "Shelfmark",
+        "value" : "QD25 .A4 1702"
+      }, {
+        "label" : "Creator",
+        "value" : "Baulot, Isaac"
+      }, {
+        "label" : "Title",
+        "value" : "Mutus liber"
+      }, {
+        "label" : "Date",
+        "value" : "1702"
+      }, {
+        "label" : "Credit",
+        "value" : "Library of Congress"
+      } ],
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://cbc25a95-dab3-4806-a6a7-e71009a32ea1",
@@ -137,6 +217,11 @@
         },
         "on" : "http://1dacb807-b14b-4b93-b55c-c1178a30ded3"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://selmakaina.github.io/Alchemy_Iconography/annotations/Mutus_Liber_annotations",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations for Mutus Liber"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://269ff0c2-f0e7-4d00-9387-575ed2863440",
@@ -144,6 +229,19 @@
       "label" : "Rembrandt, The Alchemist at home in his study, 1652",
       "height" : 5189,
       "width" : 3968,
+      "metadata" : [ {
+        "label" : "Creator",
+        "value" : "Rembrandt Harmenszoon van Rijn"
+      }, {
+        "label" : "Title",
+        "value" : "The Alchemist at home in his study, or Doctor Fautrieus"
+      }, {
+        "label" : "Date",
+        "value" : "1652"
+      }, {
+        "label" : "Credit",
+        "value" : "Rijksmuseum, Amsterdam"
+      } ],
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://7bec1db3-7fcb-49ba-a64d-81967e67461a",
@@ -163,6 +261,11 @@
         },
         "on" : "http://269ff0c2-f0e7-4d00-9387-575ed2863440"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://selmakaina.github.io/Alchemy_Iconography/annotations/Rembrandt_alchimiste_annotations",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations for Rembrandt"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://455960bc-0d20-462f-a2cb-6fa0161b59a4",
@@ -170,6 +273,19 @@
       "label" : "Pieter Bruegel The\nElder, The Alchimist, 1558",
       "height" : 2249,
       "width" : 3109,
+      "metadata" : [ {
+        "label" : "Creator",
+        "value" : "Philip Galle after Pieter Bruegel the Elder"
+      }, {
+        "label" : "Title",
+        "value" : "The Alchimist"
+      }, {
+        "label" : "Date",
+        "value" : "1558"
+      }, {
+        "label" : "Credit",
+        "value" : "National Gallery of Art, Washington"
+      } ],
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://28c7c369-317f-4426-818f-e50f4a21455a",
@@ -189,13 +305,31 @@
         },
         "on" : "http://455960bc-0d20-462f-a2cb-6fa0161b59a4"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://selmakaina.github.io/Alchemy_Iconography/annotations/Bruegel_annotations",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations for Bruegel"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://ea999e08-4fbc-459b-bcf7-1e5d54ae4e16",
       "@type" : "sc:Canvas",
-      "label" : "Jan Stradanus, The Alchemist’s\nLaboratory, 1570",
+      "label" : "Jan Stradanus, The Alchemist’s Laboratory, 1570",
       "height" : 991,
       "width" : 750,
+      "metadata" : [ {
+        "label" : "Creator",
+        "value" : "Jan Stradanus"
+      }, {
+        "label" : "Title",
+        "value" : "The Alchemist’s\nLaboratory"
+      }, {
+        "label" : "Date",
+        "value" : "1570"
+      }, {
+        "label" : "Credit",
+        "value" : "Palazzo Vecchio, Florence"
+      } ],
       "images" : [ {
         "@context" : "http://iiif.io/api/presentation/2/context.json",
         "@id" : "http://80ff82b1-1156-4404-89a6-2972ae0f7b3f",
@@ -215,6 +349,11 @@
         },
         "on" : "http://ea999e08-4fbc-459b-bcf7-1e5d54ae4e16"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://selmakaina.github.io/Alchemy_Iconography/annotations/Jan_Stradanus_annotations",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations for Jan Stradanus"
+      } ],
       "related" : ""
     } ]
   } ],
@@ -222,11 +361,46 @@
     "@id" : "http://example.org/iiif/alchemical-iconography/range/symbols",
     "@type" : "sc:Range",
     "label" : "Alchemical symbols",
-    "canvases" : [ "http://c4b95b48-310e-47d7-ad10-c65678789528", "http://cf996f16-354b-4018-8606-fbe330482232", "http://aba2f013-1faf-43d1-990e-900536c63ef3", "http://1dacb807-b14b-4b93-b55c-c1178a30ded3" ]
+    "ranges" : [ {
+      "@id" : "http://example.org/iiif/alchemical-iconography/range/symbols/meeting_opposites",
+      "@type" : "sc:Range",
+      "label" : "The meeting of opposites",
+      "canvases" : [ "http://c4b95b48-310e-47d7-ad10-c65678789528" ]
+    }, {
+      "@id" : "http://example.org/iiif/alchemical-iconography/range/symbols/hermes",
+      "@type" : "sc:Range",
+      "label" : "Clavus II  \"Hermes\"",
+      "canvases" : [ "http://cf996f16-354b-4018-8606-fbe330482232" ]
+    }, {
+      "@id" : "http://example.org/iiif/alchemical-iconography/range/symbols/ouroboros",
+      "@type" : "sc:Range",
+      "label" : "Ouroboros, Atalanta fugiens",
+      "canvases" : [ "http://aba2f013-1faf-43d1-990e-900536c63ef3" ]
+    }, {
+      "@id" : "http://example.org/iiif/alchemical-iconography/range/symbols/mutus_liber",
+      "@type" : "sc:Range",
+      "label" : "Mutus liber",
+      "canvases" : [ "http://1dacb807-b14b-4b93-b55c-c1178a30ded3" ]
+    } ]
   }, {
     "@id" : "http://example.org/iiif/alchemical-iconography/range/representations",
     "@type" : "sc:Range",
     "label" : "Representations of Alchemists",
-    "canvases" : [ "http://269ff0c2-f0e7-4d00-9387-575ed2863440", "http://455960bc-0d20-462f-a2cb-6fa0161b59a4", "http://ea999e08-4fbc-459b-bcf7-1e5d54ae4e16" ]
+    "ranges" : [ {
+      "@id" : "http://example.org/iiif/alchemical-iconography/range/representations/rembrandt",
+      "@type" : "sc:Range",
+      "label" : "Rembrandt, The Alchemist at home in his study",
+      "canvases" : [ "http://269ff0c2-f0e7-4d00-9387-575ed2863440" ]
+    }, {
+      "@id" : "http://example.org/iiif/alchemical-iconography/range/representations/bruegel",
+      "@type" : "sc:Range",
+      "label" : "Pieter Bruegel The\nElder, The Alchimist",
+      "canvases" : [ "http://455960bc-0d20-462f-a2cb-6fa0161b59a4" ]
+    }, {
+      "@id" : "http://example.org/iiif/alchemical-iconography/range/representations/stradanus",
+      "@type" : "sc:Range",
+      "label" : "Jan Stradanus, The Alchemist’s\nLaboratory",
+      "canvases" : [ "http://ea999e08-4fbc-459b-bcf7-1e5d54ae4e16" ]
+    } ]
   } ]
 }
