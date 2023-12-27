@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/Jan_Stradanus_annotations" ],
+  "otherContent" : [ "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/Jan_Stradanus_annotations", "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/f22c1175ad98f34732ef5e77736f806d.json" ],
   "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/collection.json",
   "label" : "All annotations loaded in SelmaKaina/Alchemy_Iconography project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
