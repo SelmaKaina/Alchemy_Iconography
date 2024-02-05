@@ -1,0 +1,43 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The ouroboros, from the Greek 'the serpent that bites its tail', is the oldest allegorical symbol in alchemy. It can represent cosmic unity, the cycle of life and the union of opposites.\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/4/4f/%C3%84gyptisches_Museum_Kairo_2016-03-29_Tutanchamun_Grabschatz_09.jpg\" alt=\"First known representation of the ouroboros, on one of the shrines enclosing the sarcophagus of Tutankhamun\" width=\"200\" height=\"134\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The ouroboros, from the Greek 'the serpent that bites its tail', is the oldest allegorical symbol in alchemy. It can represent cosmic unity, the cycle of life and the union of opposites.</p>\n<p><img src=\"https://upload.wikimedia.org/wikipedia/commons/4/4f/%C3%84gyptisches_Museum_Kairo_2016-03-29_Tutanchamun_Grabschatz_09.jpg\" alt=\"First known representation of the ouroboros, on one of the shrines enclosing the sarcophagus of Tutankhamun\" width=\"200\" height=\"134\" /></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "ouroboros",
+      "@type" : "oa:Tag",
+      "chars" : "ouroboros"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-27T00:11:52",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703635912347",
+    "dcterms:modified" : "2023-12-27T00:39:11",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=257,623,619,403"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M347.37,681.64241c57.1847,-33.82502 137.85298,-59.01337 218.91218,-58.98328v0v0c81.0592,0.03009 151.67536,23.59339 218.91218,58.98328c67.23682,35.38989 93.37092,89.31725 90.67639,142.39823c-2.69453,53.08098 -34.21768,105.31557 -90.67639,142.39823c-56.45871,37.08266 -137.85298,59.01337 -218.91218,58.98328c-81.0592,-0.03009 -161.78333,-22.021 -218.91218,-58.98328c-57.12885,-36.96228 -90.66243,-88.89594 -90.67639,-142.39823c-0.01396,-53.50229 33.49169,-108.57321 90.67639,-142.39823z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_2008aadc-cda1-4e4d-8a3e-ae571d70b840\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"23.13028\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://aba2f013-1faf-43d1-990e-900536c63ef3"
+    } ]
+  } ],
+  "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/a544bce06f99b046f1506cebd1e510ca.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
