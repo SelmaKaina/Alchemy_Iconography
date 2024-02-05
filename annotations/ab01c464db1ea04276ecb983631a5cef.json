@@ -1,0 +1,289 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The moon represents the feminine principle. The union of these two opposing forces represents&nbsp; harmony and balance necessary for progress in the alchemical process.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The moon represents the feminine principle. The union of these two opposing forces represents&nbsp; harmony and balance necessary for progress in the alchemical process.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Moon",
+      "@type" : "oa:Tag",
+      "chars" : "Moon"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "feminine",
+      "@type" : "oa:Tag",
+      "chars" : "feminine"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-27T00:06:57",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703635617619",
+    "dcterms:modified" : "2023-12-27T00:09:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=817,448,57,68"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M825.56495,457.49436c5.2541,-5.6722 12.66586,-9.8961 20.11354,-9.89105v0v0c7.44768,0.00505 13.93586,3.95643 20.11354,9.89105c6.17768,5.93462 8.57887,14.97784 8.3313,23.87912c-0.24757,8.90128 -3.1439,17.66064 -8.3313,23.87912c-5.1874,6.21848 -12.66586,9.8961 -20.11354,9.89105c-7.44768,-0.00505 -14.86457,-3.69275 -20.11354,-9.89105c-5.24897,-6.1983 -8.33002,-14.90718 -8.3313,-23.87912c-0.00128,-8.97194 3.0772,-18.20692 8.3313,-23.87912z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_f1b95d12-c844-48f9-bdaf-b6d66cf37032\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6.54545\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://cf996f16-354b-4018-8606-fbe330482232"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Caduceus",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Caduceus</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-26T23:58:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703635090122",
+    "dcterms:modified" : "2023-12-26T23:58:10",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=614,259,53,140"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M613.79203,258.70714h26.45455v0h26.45455v70.09091v70.09091h-26.45455h-26.45455v-70.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_37135d22-c760-4a7c-9516-c33c2e976e26\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://cf996f16-354b-4018-8606-fbe330482232"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The solar-lunar couple is one of the most iconic alchemical pairs. The sun represents the masculine principle.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The solar-lunar couple is one of the most iconic alchemical pairs. The sun represents the masculine principle.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sun",
+      "@type" : "oa:Tag",
+      "chars" : "Sun"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Masculine",
+      "@type" : "oa:Tag",
+      "chars" : "Masculine"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-27T00:06:23",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703635583308",
+    "dcterms:modified" : "2023-12-27T00:09:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=635,442,74,76"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M646.24237,453.28762c6.82794,-6.38778 16.45986,-11.14454 26.13846,-11.13886v0v0c9.6786,0.00568 18.11028,4.45556 26.13846,11.13886c8.02818,6.6833 11.14864,16.86736 10.82691,26.89158c-0.32173,10.02422 -4.08565,19.8886 -10.82691,26.89158c-6.74126,7.00298 -16.45986,11.14454 -26.13846,11.13886c-9.6786,-0.00568 -19.31718,-4.15862 -26.13846,-11.13886c-6.82128,-6.98024 -10.82524,-16.7878 -10.82691,-26.89158c-0.00167,-10.10378 3.99897,-20.5038 10.82691,-26.89158z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_8d8f9420-ad2c-4e66-9959-4589b0d9e330\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6.54545\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://cf996f16-354b-4018-8606-fbe330482232"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The serpent and eagle represent opposing forces in alchemy. The serpent, linked to the earth, symbolizes matter.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The serpent and eagle represent opposing forces in alchemy. The serpent, linked to the earth, symbolizes matter.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "serpent",
+      "@type" : "oa:Tag",
+      "chars" : "serpent"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "matter",
+      "@type" : "oa:Tag",
+      "chars" : "matter"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-27T00:07:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703635664174",
+    "dcterms:modified" : "2023-12-27T00:07:51",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=467,295,78,82"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M466.5193,295.07077h39.18182v0h39.18182v41v41h-39.18182h-39.18182v-41z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_e46f4170-3c7c-4e9f-b9f2-e1d6f2e75dfa\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://cf996f16-354b-4018-8606-fbe330482232"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "caduceus",
+      "@type" : "oa:Tag",
+      "chars" : "caduceus"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "mercury",
+      "@type" : "oa:Tag",
+      "chars" : "mercury"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Symbol of the god Mercury (Hermes), representing a caduceus. It also symbolizes the liquid metal named after the god. Alchemists considered mercury as a representation of the prima materia, the initial formless and chaotic substance from which transformation begins.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Symbol of the god Mercury (Hermes), representing a caduceus. It also symbolizes the liquid metal named after the god. Alchemists considered mercury as a representation of the prima materia, the initial formless and chaotic substance from which transformation begins.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-12-27T00:02:50",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703635370399",
+    "dcterms:modified" : "2023-12-27T00:02:50",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=721,245,41,43"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M721.06475,245.07077h20.54545v0h20.54545v21.45455v21.45455h-20.54545h-20.54545v-21.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_355758b5-5b01-4d95-981c-42af81ffe407\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://cf996f16-354b-4018-8606-fbe330482232"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Hermes",
+      "@type" : "oa:Tag",
+      "chars" : "Hermes"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Mercury",
+      "@type" : "oa:Tag",
+      "chars" : "Mercury"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "transmutation",
+      "@type" : "oa:Tag",
+      "chars" : "transmutation"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The god Hermes (or Mercury), often associated with the principle of transformation. He symbolizes the alchemist's ability to convert the base matter (prima materia) into a purer and higher form. He embodies the alchemical process of transmutation.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The god Hermes (or Mercury), often associated with the principle of transformation. He symbolizes the alchemist's ability to convert the base matter (prima materia) into a purer and higher form. He embodies the alchemical process of transmutation.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-12-27T00:03:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703635435805",
+    "dcterms:modified" : "2023-12-27T00:03:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=701,286,97,317"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M701.06475,285.97987h48.72727v0h48.72727v158.27273v158.27273h-48.72727h-48.72727v-158.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_92471bc9-f6bf-44c7-a05d-660c1a9fc8ab\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://cf996f16-354b-4018-8606-fbe330482232"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The eagle, associated with air, represents the spirit. Its union (or opposition) with the serpent symbolizes transcending material constraints to reach higher levels of consciousness.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The eagle, associated with air, represents the spirit. Its union (or opposition) with the serpent symbolizes transcending material constraints to reach higher levels of consciousness.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "eagle",
+      "@type" : "oa:Tag",
+      "chars" : "eagle"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "spirit",
+      "@type" : "oa:Tag",
+      "chars" : "spirit"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-27T00:08:45",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703635725034",
+    "dcterms:modified" : "2023-12-27T00:08:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=817,371,55,60"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M817.42839,371.43441h27.36364v0h27.36364v30.09091v30.09091h-27.36364h-27.36364v-30.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_e58d9ae3-134f-4d93-96bd-b4a75655c1f0\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"5.45455\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://cf996f16-354b-4018-8606-fbe330482232"
+    } ]
+  } ],
+  "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/ab01c464db1ea04276ecb983631a5cef.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
