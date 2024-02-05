@@ -1,0 +1,150 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A painting by Jan Stradanus, created for the decoration of the Studiolo of Francesco I de' Medici: a patron of the arts actively engaged in the family's workshops and laboratories. This depiction of the alchemical laboratory is part of several adjacent paintings where Francesco is shown actively supervising or working.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A painting by Jan Stradanus, created for the decoration of the Studiolo of Francesco I de' Medici: a patron of the arts actively engaged in the family's workshops and laboratories. This depiction of the alchemical laboratory is part of several adjacent paintings where Francesco is shown actively supervising or working.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Studiolo",
+      "@type" : "oa:Tag",
+      "chars" : "Studiolo"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-27T00:54:07",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703638447485",
+    "dcterms:modified" : "2023-12-27T01:05:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=416,877,115,116"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M415.83542,876.5931h57.69514v0h57.69514v57.9801v57.9801h-57.69514h-57.69514v-57.9801z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_f978bd85-dbd7-4b79-93ed-1424d26af761\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"11.1837\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ea999e08-4fbc-459b-bcf7-1e5d54ae4e16"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Francesco I de' Medici",
+      "@type" : "oa:Tag",
+      "chars" : "Francesco I de' Medici"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Francesco I de' Medici, represented to emphasize his credentials as a diligent laboratory worker, without claiming the status of alchemical expert. A study of the preparatory drawing for this painting shows that neither he nor Bonsisti were meant to be part of the painting.\n<img src=\"https://www.cabinet.ox.ac.uk/sites/default/files/Stradanus%20Francesco.PNG\" alt=\"\" width=\"300\" height=\"252\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Francesco I de' Medici, represented to emphasize his credentials as a diligent laboratory worker, without claiming the status of alchemical expert. A study of the preparatory drawing for this painting shows that neither he nor Bonsisti were meant to be part of the painting.</p>\n<p><img src=\"https://www.cabinet.ox.ac.uk/sites/default/files/Stradanus%20Francesco.PNG\" alt=\"\" width=\"300\" height=\"252\" /></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-12-27T01:04:00",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703639040096",
+    "dcterms:modified" : "2023-12-27T01:04:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=572,586,177,295"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M572.09655,585.50626h88.60564v0h88.60564v147.32006v147.32006h-88.60564h-88.60564v-147.32006z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_fabb790c-42d6-4ced-aaf1-2cb998fe9978\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ea999e08-4fbc-459b-bcf7-1e5d54ae4e16"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A more classical representation of an alchemist's workshop. The activity seems to revolve around this young man holding a vial.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A more classical representation of an alchemist's workshop. The activity seems to revolve around this young man holding a vial.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-27T00:55:52",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703638552845",
+    "dcterms:modified" : "2023-12-27T00:55:52",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=290,367,209,423"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M290.01881,367.11347h104.29389v0h104.29389v211.471v211.471h-104.29389h-104.29389v-211.471z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7194e9ad-c8bc-486d-a27d-eda30cf68f27\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ea999e08-4fbc-459b-bcf7-1e5d54ae4e16"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Likely Sisto de&rsquo; Bonsistida Norcia, the court alchemist. ",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Likely Sisto de&rsquo; Bonsisti<br />da Norcia, the court alchemist. </p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Sisto de’ Bonsisti da Norcia",
+      "@type" : "oa:Tag",
+      "chars" : "Sisto de’ Bonsisti da Norcia"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-27T00:59:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703638750797",
+    "dcterms:modified" : "2023-12-27T01:00:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=525,451,110,125"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M525.49781,451.30188h55.05455v0h55.05455v62.51034v62.51034h-55.05455h-55.05455v-62.51034z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_10cda926-3675-4619-87eb-28aca740290b\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"11.1837\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://ea999e08-4fbc-459b-bcf7-1e5d54ae4e16"
+    } ]
+  } ],
+  "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/21d905759ac727ae1cb012a3ff8f5425.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
