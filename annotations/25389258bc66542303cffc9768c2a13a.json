@@ -1,0 +1,154 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The Mutus Liber (1677), 'the Silent Book.', is a book composed of fifteen engraved plates, without any accompanying text, narrating the story of alchemical transformation through the virtue of celestial dew. Here, the celestial dew collected in the preceding engraving is distilled in an alembic.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The Mutus Liber (1677), 'the Silent Book.', is a book composed of fifteen engraved plates, without any accompanying text, narrating the story of alchemical transformation through the virtue of celestial dew. Here, the celestial dew collected in the preceding engraving is distilled in an alembic.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "celestial dew",
+      "@type" : "oa:Tag",
+      "chars" : "celestial dew"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "alembic",
+      "@type" : "oa:Tag",
+      "chars" : "alembic"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "distillation",
+      "@type" : "oa:Tag",
+      "chars" : "distillation"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-27T00:14:10",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703636050911",
+    "dcterms:modified" : "2023-12-27T00:14:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=516,295,2876,1369"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M516.12382,294.99425h1438.06897v0h1438.06897v684.69645v684.69645h-1438.06897h-1438.06897v-684.69645z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_93a60556-75aa-41d2-85cd-047f090965f7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"52.25705\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1dacb807-b14b-4b93-b55c-c1178a30ded3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Using a spoon, the operator removes the residue from the bottom of the retort and transfers it into a flask in which four coagulation particles appear.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Using a spoon, the operator removes the residue from the bottom of the retort and transfers it into a flask in which four coagulation particles appear.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-27T00:15:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703636108525",
+    "dcterms:modified" : "2023-12-27T00:15:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=516,1715,1430,1369"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M516.12382,1714.6442h715.17973v0h715.17973v684.69645v684.69645h-715.17973h-715.17973v-684.69645z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_94f6558e-3c54-48b1-bf28-044567df202b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1dacb807-b14b-4b93-b55c-c1178a30ded3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The operator hands the flask to the god Vulcan (Hephaestus), symbol of the secret fire. The flask's contents will revive the dead child he holds against his chest.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The operator hands the flask to the god Vulcan (Hephaestus), symbol of the secret fire. The flask's contents will revive the dead child he holds against his chest.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Vulcan",
+      "@type" : "oa:Tag",
+      "chars" : "Vulcan"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-27T00:15:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703636142962",
+    "dcterms:modified" : "2023-12-27T00:16:03",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2023,1697,1378,1387"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2022.86886,1697.22518h689.0512v0h689.0512v693.40596v693.40596h-689.0512h-689.0512v-693.40596z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_a9887690-7a67-48f6-b684-971113238376\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"52.25705\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1dacb807-b14b-4b93-b55c-c1178a30ded3"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The distillate is divided into four parts and heated in stoppered tubes.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The distillate is divided into four parts and heated in stoppered tubes.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-27T00:16:24",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703636184616",
+    "dcterms:modified" : "2023-12-27T00:16:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=551,3119,2859,1383"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M550.96186,4501.68704h1429.35946v0h1429.35946v-691.40596v-691.40596h-1429.35946h-1429.35946v691.40596z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5cd338bf-4640-4949-a038-b1700dd3255a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://1dacb807-b14b-4b93-b55c-c1178a30ded3"
+    } ]
+  } ],
+  "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/25389258bc66542303cffc9768c2a13a.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
