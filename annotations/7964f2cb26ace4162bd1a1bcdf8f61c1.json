@@ -1,0 +1,117 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The scholar, often assimilated to an alchemist and sometimes even to <a href=\"https://en.wikipedia.org/wiki/Faust\" target=\"_blank\" rel=\"noopener\">Faust, the protagonist of a German tale based on the alchemist <a href=\"https://en.wikipedia.org/wiki/Johann_Georg_Faust\" target=\"_blank\" rel=\"noopener\">Johann Georg Faust.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The scholar, often assimilated to an alchemist and sometimes even to <a href=\"https://en.wikipedia.org/wiki/Faust\" target=\"_blank\" rel=\"noopener\">Faust</a>, the protagonist of a German tale based on the alchemist <a href=\"https://en.wikipedia.org/wiki/Johann_Georg_Faust\" target=\"_blank\" rel=\"noopener\">Johann Georg Faust</a>.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Alchemist",
+      "@type" : "oa:Tag",
+      "chars" : "Alchemist"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Faust",
+      "@type" : "oa:Tag",
+      "chars" : "Faust"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-27T00:29:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703636984228",
+    "dcterms:modified" : "2023-12-27T00:30:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=694,2150,1376,2053"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M694.23877,2149.69087h687.80599v0h687.80599v1026.69053v1026.69053h-687.80599h-687.80599v-1026.69053z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_a91d21a6-8500-4fd1-8f84-77f942d38c67\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"54.22153\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://269ff0c2-f0e7-4d00-9387-575ed2863440"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "At the center of the luminous apparition, the viewer sees the four letters INRI. They often refer to the phrase 'Iesus Nazarenus Rex Iudaeorum' (Jesus of Nazareth, King of the Jews), depicted above over Christ&rsquo;s head during the crucifixion. Alchemists later ascribed to it the meaning : 'Ignis Natura Renovatur Integram' (fire renews nature in its purity). The scene may be interpreted as an allegory of faith : the indecipherable letters reminding the scholar that human knowledge is limited and ambiguous, in contrast with the clarity of divine wisdom.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>At the center of the luminous apparition, the viewer sees the four letters INRI. They often refer to the phrase 'Iesus Nazarenus Rex Iudaeorum' (Jesus of Nazareth, King of the Jews), depicted above over Christ&rsquo;s head during the crucifixion. Alchemists later ascribed to it the meaning : 'Ignis Natura Renovatur Integram' (fire renews nature in its purity). The scene may be interpreted as an allegory of faith : the indecipherable letters reminding the scholar that human knowledge is limited and ambiguous, in contrast with the clarity of divine wisdom.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "INRI",
+      "@type" : "oa:Tag",
+      "chars" : "INRI"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-27T00:18:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703636302195",
+    "dcterms:modified" : "2023-12-27T00:32:35",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2383,1924,736,717"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2491.01352,2029.20304c67.9758,-60.21225 163.86668,-105.05027 260.22224,-104.9967v0v0c96.35556,0.05357 180.29742,41.99882 260.22224,104.9967c79.92482,62.99788 110.99058,158.9945 107.78758,253.48446c-3.203,94.48996 -40.67477,187.47327 -107.78758,253.48446c-67.11281,66.01119 -163.86668,105.05027 -260.22224,104.9967c-96.35556,-0.05357 -192.31282,-39.19979 -260.22224,-104.9967c-67.90942,-65.79691 -107.77098,-158.24452 -107.78758,-253.48446c-0.0166,-95.23994 39.81178,-193.27221 107.78758,-253.48446z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"ellipse_a2f00f9b-963c-4f40-8c6a-003460c3dd60\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"54.22153\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://269ff0c2-f0e7-4d00-9387-575ed2863440"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pencil in hand, the scholar is either interrupted in his work by this luminous message or working on deciphering its meaning.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Pencil in hand, the scholar is either interrupted in his work by this luminous message or working on deciphering its meaning.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2023-12-27T00:33:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703637239112",
+    "dcterms:modified" : "2023-12-27T00:33:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=595,4230,725,441"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M594.83264,4670.99181h362.47684v0h362.47684v-220.40456v-220.40456h-362.47684h-362.47684v220.40456z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8a8f6b59-6bf3-4558-aef5-0b9db48841bb\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://269ff0c2-f0e7-4d00-9387-575ed2863440"
+    } ]
+  } ],
+  "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/7964f2cb26ace4162bd1a1bcdf8f61c1.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
