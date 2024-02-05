@@ -1,0 +1,326 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "putto",
+      "@type" : "oa:Tag",
+      "chars" : "putto"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The putto can symbolize the pure and uncorrupted state of the substance to be transformed, or the union of the opposites represented below.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The putto can symbolize the pure and uncorrupted state of the substance to be transformed, or the union of the opposites represented below.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-12-26T23:57:08",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703635028761",
+    "dcterms:modified" : "2023-12-26T23:57:08",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=434,600,275,233"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M473.91192,633.75058c25.36379,-19.53667 61.14352,-34.08497 97.09663,-34.06758v0v0c35.95312,0.01738 67.27431,13.62708 97.09663,34.06758c29.82232,20.44051 41.41388,51.58789 40.21874,82.24642c-1.19513,30.65853 -15.17696,60.82821 -40.21874,82.24642c-25.04178,21.41821 -61.14352,34.08497 -97.09663,34.06758c-35.95312,-0.01738 -71.75762,-12.7189 -97.09663,-34.06758c-25.33902,-21.34869 -40.21255,-51.34455 -40.21874,-82.24642c-0.00619,-30.90187 14.85496,-62.70975 40.21874,-82.24642z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"ellipse_18acb03c-b166-41a3-807e-d737daf3ac6f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c4b95b48-310e-47d7-ad10-c65678789528"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "3. <span class=\"a\">Citrinitas: third stage where the purified and refined substance from the white work undergoes additional processes to achieve a yellow or golden hue. This stage is often linked to the symbolism of the alchemical marriage (union of opposites) represented below.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>3. <span class=\"a\">Citrinitas: third stage where </span>the purified and refined substance from the white work undergoes additional processes to achieve a yellow or golden hue. This stage is often linked to the symbolism of the alchemical marriage (union of opposites) represented below.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Citrinitas",
+      "@type" : "oa:Tag",
+      "chars" : "Citrinitas"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-26T23:50:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703634630819",
+    "dcterms:modified" : "2023-12-26T23:50:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=790,851,25,38"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M802.27492,888.36785c0,-8.33438 4.16719,-16.66876 12.50157,-25.00312c0,-6.90443 -5.59714,-12.50157 -12.50157,-12.50157c-6.90443,0 -12.50157,5.59714 -12.50157,12.50157c8.33438,8.33438 12.50157,16.66876 12.50157,25.00312z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_7a21cd3e-13e7-41d4-8461-9c3999fcb386\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"15.00188\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c4b95b48-310e-47d7-ad10-c65678789528"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "sublimation",
+      "@type" : "oa:Tag",
+      "chars" : "sublimation"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The blooming flowers indicatethat the sublimation process has begun.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The blooming flowers indicate<br />that the sublimation process has begun.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-12-26T23:57:47",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703635067089",
+    "dcterms:modified" : "2023-12-26T23:57:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=393,18,443,571"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M835.90439,588.69906h-221.25009v0h-221.25009v-285.49425v-285.49425h221.25009h221.25009v285.49425z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_48d61587-58bb-4123-966a-91df30bcc651\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c4b95b48-310e-47d7-ad10-c65678789528"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Rubedo",
+      "@type" : "oa:Tag",
+      "chars" : "Rubedo"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Philosopher's Stone",
+      "@type" : "oa:Tag",
+      "chars" : "Philosopher's Stone"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "4. Rubedo : fourth and final major stage, associated with the completion of the Great Work, and the creation of the philosopher's stone, a legendary substance believed to have the power to transmute base metals into gold and grant immortality.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>4. Rubedo : fourth and final major stage, associated with the completion of the Great Work, and the creation of the philosopher's stone, a legendary substance believed to have the power to transmute base metals into gold and grant immortality.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-12-26T23:54:35",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703634875867",
+    "dcterms:modified" : "2023-12-26T23:54:35",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=350,943,25,38"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M362.21975,980.87945c0,-8.33438 4.16719,-16.66876 12.50157,-25.00313c0,-6.90443 -5.59714,-12.50157 -12.50157,-12.50157c-6.90443,0 -12.50157,5.59714 -12.50157,12.50157c8.33438,8.33438 12.50157,16.66876 12.50157,25.00313z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_b92744ed-91c1-44c8-86fd-4adc6d6ce403\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c4b95b48-310e-47d7-ad10-c65678789528"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Nigredo",
+      "@type" : "oa:Tag",
+      "chars" : "Nigredo"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "decomposition",
+      "@type" : "oa:Tag",
+      "chars" : "decomposition"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "1. Nigredo (black work) : initial stage of the alchemical process, it refers to putrefaction or decomposition, the state of the matter before it undergoes a transformative process.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>1. Nigredo (black work) : initial stage of the alchemical process, it refers to putrefaction or decomposition, the state of the matter before it undergoes a transformative process.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-12-26T23:41:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703634116857",
+    "dcterms:modified" : "2023-12-26T23:41:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=770,973,25,38"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M782.27241,1010.88321c0,-8.33438 4.16719,-16.66876 12.50157,-25.00313c0,-6.90443 -5.59714,-12.50157 -12.50157,-12.50157c-6.90443,0 -12.50157,5.59714 -12.50157,12.50157c8.33438,8.33438 12.50157,16.66876 12.50157,25.00313z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"pin_50b7d74b-91aa-4ac1-8f5b-918df8f86d0e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c4b95b48-310e-47d7-ad10-c65678789528"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The quest for the Philosopher's Stone often involved the meeting of opposites, here symbolized by the union of man and woman in the vial.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The quest for the Philosopher's Stone often involved the meeting of opposites, here symbolized by the union of man and woman in the vial.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "opposites",
+      "@type" : "oa:Tag",
+      "chars" : "opposites"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "sublimation",
+      "@type" : "oa:Tag",
+      "chars" : "sublimation"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "alchemical marriage",
+      "@type" : "oa:Tag",
+      "chars" : "alchemical marriage"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-26T23:26:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703633181317",
+    "dcterms:modified" : "2023-12-26T23:27:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=398,1005,342,124"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M398.34953,1005.41797h171.16022v0h171.16022v61.77151v61.77151h-171.16022h-171.16022v-61.77151z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_8a5169bd-02e8-493a-94db-e155cd812241\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"20.83595\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c4b95b48-310e-47d7-ad10-c65678789528"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "2. Albedo (white work) : second stage of the alchemical process, it represents the purification and cleansing of the material obtained after the putrefaction of the nigredo. It symbolizes the emergence of a more refined and spiritually elevated substance.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>2. Albedo (white work) : second stage of the alchemical process, it represents the purification and cleansing of the material obtained after the putrefaction of the nigredo. It symbolizes the emergence of a more refined and spiritually elevated substance.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Albedo",
+      "@type" : "oa:Tag",
+      "chars" : "Albedo"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "purification",
+      "@type" : "oa:Tag",
+      "chars" : "purification"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2023-12-26T23:30:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703633443771",
+    "dcterms:modified" : "2023-12-26T23:38:37",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=350,845,25,38"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M362.1503,882.4023c0,-8.33438 4.16719,-16.66876 12.50157,-25.00315c0,-6.90443 -5.59714,-12.50157 -12.50157,-12.50157c-6.90443,0 -12.50157,5.59714 -12.50157,12.50157c8.33438,8.33438 12.50157,16.66876 12.50157,25.00315z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;fixedSize&quot;:true,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"pin_4e62d11e-4878-441d-9555-4149e0d7efad\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"15.00188\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c4b95b48-310e-47d7-ad10-c65678789528"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Magnum Opus",
+      "@type" : "oa:Tag",
+      "chars" : "Magnum Opus"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "elements",
+      "@type" : "oa:Tag",
+      "chars" : "elements"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "These four faces may represent the four elements, or the four stages of the Great Work, meant to achieve spiritual and material perfection.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>These four faces may represent the four elements, or the four stages of the Great Work, meant to achieve spiritual and material perfection.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/127856555",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2023-12-26T23:30:21",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1703633421758",
+    "dcterms:modified" : "2023-12-26T23:30:21",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=405,853,342,137"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M405.29485,852.62104h171.16022v0h171.16022v68.71682v68.71682h-171.16022h-171.16022v-68.71682z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7813cc7c-4dbe-4313-9f4a-5b0fbe647fc1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://c4b95b48-310e-47d7-ad10-c65678789528"
+    } ]
+  } ],
+  "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/annotations/e943a3ec58c883b798980d1310c92d88.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
