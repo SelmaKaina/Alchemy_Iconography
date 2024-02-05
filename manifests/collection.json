@@ -9,5 +9,9 @@
     "@type" : "sc:Manifest",
     "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest2.json",
     "label" : "Alchemy Unveiled with IIIF"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://SelmaKaina.github.io/Alchemy_Iconography/manifests/manifest.json",
+    "label" : "Alchemy Unveiled with IIIF"
   } ]
 }
